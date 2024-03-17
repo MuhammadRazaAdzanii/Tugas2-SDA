@@ -1,11 +1,11 @@
 # Tugas2-SDA
 
 cara menjalankan program sebagai berikut: </br>
-Untuk mengkompilasi program ini,kita mmenggunakan kompiler C dan dapat menjalankan perintah berikut di terminal
-gcc -o 2208107010066-Simple_Sorting 2208107010066_Simple_Sorting.c
-Setelah berhasil dikompilasi, kita dapat menjalankan program dengan mengetikkan nama file biner yang telah dibuat. seperti
-./2208107010066_Simple_Sorting
-Program akan mulai menjalankan pengujian dengan mengurutkan array dengan ukuran yang berbeda menggunakan tiga algoritma pengurutan yang berbeda.
+Untuk mengkompilasi program ini,kita mmenggunakan kompiler C dan dapat menjalankan perintah berikut di terminal </br>
+<b> gcc -o 2208107010066-Simple_Sorting 2208107010066_Simple_Sorting.c </b></br>
+Setelah berhasil dikompilasi, kita dapat menjalankan program dengan mengetikkan nama file biner yang telah dibuat. seperti </br>
+./2208107010066_Simple_Sorting </br>
+Program akan mulai menjalankan pengujian dengan mengurutkan array dengan ukuran yang berbeda menggunakan tiga algoritma pengurutan yang berbeda. </br>
 
 Fungsi yang terdapat dalam kode program sebagai berikut
 generateRandomIntegers(int *arr, int n): Fungsi ini digunakan untuk menghasilkan bilangan bulat acak dan menyimpannya dalam array arr. Fungsi ini menerima parameter array arr dan panjangnya n, kemudian mengisi array tersebut dengan bilangan bulat acak dari 0 hingga 999999.
